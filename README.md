@@ -12,7 +12,6 @@
 - [Features](#features)
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Biological and Clinical Implications](#biological-and-clinical-implications)
