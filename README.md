@@ -1,4 +1,4 @@
-# DIGITAL-EPIDEMIOLOGY-AND-PRECISION-MEDICINE-Project
+# DIGITAL EPIDEMIOLOGY AND PRECISION MEDICINE - Project
 
 ## Differential Analyses of Gene Expression
 
@@ -89,34 +89,6 @@ Community and cluster analyses using Patient Similarity Networks (PSN) and the F
   - `SNFtool` for similarity network fusion.
   - `maftools` for mutational data analysis.
   - `ggplot2` for data visualization.
-
----
-
-## Setup Instructions
-
-### Prerequisites
-
-1. Install **R (>= 4.0)** and **RStudio**.
-2. Ensure the following R libraries are installed:
-   ```R
-   install.packages(c("BiocManager", "psych", "network", "ggplot2"))
-   BiocManager::install(c("TCGAbiolinks", "DESeq2", "maftools", "enrichR", "SNFtool"))
-   ```
-
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/DIGITAL-EPIDEMIOLOGY-AND-PRECISION-MEDICINE-Project.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd DIGITAL-EPIDEMIOLOGY-AND-PRECISION-MEDICINE-Project
-   ```
-3. Open and execute the R script:
-   ```bash
-   Rscript PM_Proj_Code.R
-   ```
 
 ---
 
